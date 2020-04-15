@@ -1,11 +1,10 @@
-# Challenger 1
+# Challenger #1
 
 Criar o app desenvolvido durante a aula, alterar a cor do texto para cada contador:
 - Igual a zero: Cor Preta
 - Números positivos: Cor verde escuro
 - Números negativos: Cor vermelha
 - 'Exibir a soma dos contadores': "Soma: contadorA + contadorB"
-
 
 ## Getting Started
 
